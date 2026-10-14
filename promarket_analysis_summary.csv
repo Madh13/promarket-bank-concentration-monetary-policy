@@ -1,0 +1,16 @@
+metric,value
+analysis_rows,92586
+rows_with_hhi_match,91397
+hhi_merge_rate_pct,98.71578856414577
+valid_bank_quarter_rows,91105
+certificate_agreement_pct,99.99343523310394
+balanced_panel_banks,4168
+tightening_beta_low_concentration_pct,46.02565610638146
+tightening_beta_high_concentration_pct,40.04490519427727
+easing_beta_low_concentration_pct,19.281474246474975
+easing_beta_high_concentration_pct,15.087394486253991
+gap_2021Q4_bp,-1.4049555487953391
+gap_2024Q2_bp,29.996834716376508
+gap_2026Q2_bp,22.872224939569374
+level_reg_hhi_coef_pct_points_per_1000_hhi,-0.040954980915101996
+level_reg_hhi_se,0.0018116554644571619
