@@ -76,3 +76,4 @@ For detailed sample construction, variable definitions, validation checks, fixed
 ## Research status and disclosure
 
 This analysis was developed independently for the ProMarket article using public data. There was no outside funding related to the article, and the author reports no conflicts of interest related to the analysis.
+
