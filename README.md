@@ -2,8 +2,6 @@
 
 Replication and supporting materials for **“Bank Concentration Undermined the Fed’s Monetary Policy During the Last Tightening Cycle”**, by **Madhav Ritesh Parikh** (Monash University), forthcoming in **ProMarket** at the Stigler Center, University of Chicago Booth School of Business.
 
-**Publication status:** scheduled for 30 October 2026. The live article link will be added after publication.
-
 This repository contains the processed data, supporting calculations, figures, and code behind the article’s original analysis of how U.S. deposit-market concentration was associated with deposit-rate pass-through during the 2021–2026 monetary-policy cycle.
 
 ![Competition gap by quarter](promarket_competition-gap.png)
