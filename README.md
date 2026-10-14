@@ -92,14 +92,6 @@ Deposit-market concentration is measured using county-level deposit HHI from FDI
 
 For detailed sample construction, variable definitions, validation checks, fixed-effects specifications, and sensitivity analysis, see `ProMarket_Supporting_Methodology_and_Results.pdf`.
 
-## Citation
-
-Until the article is live, please cite the article as forthcoming:
-
-> Parikh, Madhav Ritesh. 2026. “Bank Concentration Undermined the Fed’s Monetary Policy During the Last Tightening Cycle.” *ProMarket*, Stigler Center, University of Chicago Booth School of Business, forthcoming.
-
-The repository also includes `CITATION.cff` for GitHub’s citation interface.
-
 ## Research status and disclosure
 
 This analysis was developed independently for the ProMarket article using public data. There was no outside funding related to the article, and the author reports no conflicts of interest related to the analysis.
