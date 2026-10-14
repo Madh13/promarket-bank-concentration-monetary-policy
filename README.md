@@ -6,7 +6,7 @@ Replication and supporting materials for **“Bank Concentration Undermined the 
 
 This repository contains the processed data, supporting calculations, figures, and code behind the article’s original analysis of how U.S. deposit-market concentration was associated with deposit-rate pass-through during the 2021–2026 monetary-policy cycle.
 
-![Competition gap by quarter](Figures/promarket_competition_gap.png)
+![Competition gap by quarter](Figures/promarket_competition-gap.png)
 
 ## Research question
 
